@@ -1,6 +1,6 @@
 import.java.io.*;
 import java.util.Scanner;
-public class Const
+public class Consonant
 {
 public static void main(String args[])
 {
