@@ -15,9 +15,9 @@ class TimeReapeat
         {
             for(int j=i+1;j<a.length;j++)
             {
-                if(arr[i]==arr[j])
+                if(a[i]==a[j])
                 {
-                    System.out.print(arr[i]+" ");
+                    System.out.print(a[i]+" ");
                    // b+=1;
                 }
             }
