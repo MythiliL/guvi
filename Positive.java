@@ -17,4 +17,5 @@ class Positive
         else
         System.out.print("zero");
     }
+    
 }
